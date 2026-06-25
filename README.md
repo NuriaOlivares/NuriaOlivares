@@ -4,8 +4,8 @@
 
 ### About 🌍
 - 4+ years building production-critical full-stack systems serving millions of users.
-- Previously Co-Founder & CTO — architected and shipped a cloud-native SaaS platform solo.
-- Engineering Physics background — I approach systems with rigorous, mathematical thinking.
+- Previously Co-Founder & CTO: architected and shipped a cloud-native SaaS platform solo.
+- Engineering Physics background: I approach systems with rigorous, mathematical thinking.
 - Currently exploring open source and looking for my next challenge.
 
 ### Work 🧑‍💻
@@ -13,6 +13,7 @@
 - **Kaptura Software** — Co-Founder & CTO *(Jun 2023 – Dec 2025)*
 - **Bluecap Consulting** — Business Analyst *(Feb 2021 – Sep 2021)*
 - **PricewaterhouseCoopers** — Junior Systems Auditor *(Sep 2020 – Feb 2021)*
+- **Accenture** — Intern *(Sep 2020 – Feb 2021)*
 
 ### Current interests 🌱
 - Open-source contributions · Microservices architecture · WebGL / creative coding
