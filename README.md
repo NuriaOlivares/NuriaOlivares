@@ -10,7 +10,7 @@
 
 ### Work 🧑‍💻
 - **ADP** — Senior Software Engineer *(Sep 2022 – Jan 2026)*
-- **Kaptura Software** — Co-Founder & CTO *(Jun 2023 – Dec 2025)*
+- **Kaptura Software** - [Centrica](https://centrica.app) — Co-Founder & CTO *(Jun 2023 – Dec 2025)*
 - **Bluecap Consulting** — Business Analyst *(Feb 2021 – Sep 2021)*
 - **PricewaterhouseCoopers** — Junior Systems Auditor *(Sep 2020 – Feb 2021)*
 - **Accenture** — Intern *(Sep 2020 – Feb 2021)*
