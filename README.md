@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Nuria Olivares
 
-**Senior Full-Stack Engineer · Java / Spring Boot · Python · Angular / React · AWS**
+**Senior Full-Stack Engineer · Python · Java / Spring Boot · Angular / React · AWS**
 
 ### About 🌍
 - 4+ years building production-critical full-stack systems serving millions of users.
@@ -13,7 +13,7 @@
 - **Kaptura Software** - [Centrica](https://centrica.app) — Co-Founder & CTO *(Jun 2023 – Dec 2025)*
 - **Bluecap Consulting** — Business Analyst *(Feb 2021 – Sep 2021)*
 - **PricewaterhouseCoopers** — Junior Systems Auditor *(Sep 2020 – Feb 2021)*
-- **Accenture** — Intern *(Sep 2020 – Feb 2021)*
+- **Accenture** — Intern *(Nov 2019 – June 2020)*
 
 ### Current interests 🌱
 - Open-source contributions · AI & ML
